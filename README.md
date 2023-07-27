@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi there, I'm Keyvan Gholami - a Senior Software Engineer! 
 
-<!--
-**keyvangholami/keyvangholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![backend developer](https://user-images.githubusercontent.com/62153993/89348962-8e034380-d67e-11ea-8d9a-6fe84e553979.gif)
 
-Here are some ideas to get you started:
+## 🧐 About Me
+With over 7+ years of experience as a backend developer, I have mastered the art of building scalable, maintainable, and performant backend systems. My favorite tools of the trade are PHP and Golang, but I love picking up and learning new languages and frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Languages and Tools:
+
+```bash
+- PHP
+- Golang
+- Docker
+- Kubernetes
+- MySQL
+- MongoDB
+- Redis
+- AWS / Google Cloud / Azure
+- Git & GitHub
